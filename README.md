@@ -1,5 +1,4 @@
 # telegram_bot_py
-Crunching the telegram bot interface
 
 This project is a Python script that utilizes the Telegram bot API, Dialogflow API, and StackAPI library to build a chatbot that can provide small talk replies, retrieve Stack Overflow answers, and handle natural language text inputs from Telegram users. The bot interacts with users by sending and receiving messages in natural language. The apiai and dialogflow libraries are used to process user messages and generate responses using machine learning algorithms.
 
