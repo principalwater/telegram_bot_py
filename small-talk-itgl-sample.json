@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "small-talk-itgl",
+  "private_key_id": "af2**625a2*****bf1610f2b******fb92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqh************/n*****A2N5FT8aiXEYWsBgqa/5vAlDhmwSHeCehoF5cEQ1Sqr4IL**************WC2/hywN\n-----END PRIVATE KEY-----\n",
+  "client_email": "principalwater@small-talk-itgl.iam.gserviceaccount.com",
+  "client_id": "1018196692227*****",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/principalwater%40small-talk-itgl.iam.gserviceaccount.com"
+}
