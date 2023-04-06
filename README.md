@@ -5,7 +5,7 @@ This project is a Python script that utilizes the Telegram bot API, Dialogflow A
 
 To achieve this, the code imports the necessary libraries such as telebot, apiai, json, os, dialogflow, and stackapi. It then sets the Google application credentials and the necessary variables for the Dialogflow API, including the project ID, language code, and session ID. The bot object is initialized using the Telebot library and the necessary command and text message handlers are defined using the message_handler decorator.
 
-The **start** command handler replies to users who initiate a conversation with the bot, while the stack command handler retrieves the top voted answers for Stack Overflow questions using the StackAPI library. The text message handler handles all other text inputs by sending them to Dialogflow to be analyzed for intent and returns the corresponding response.
+The '''start''' command handler replies to users who initiate a conversation with the bot, while the stack command handler retrieves the top voted answers for Stack Overflow questions using the StackAPI library. The text message handler handles all other text inputs by sending them to Dialogflow to be analyzed for intent and returns the corresponding response.
 
 Finally, the code runs the bot using the infinity_polling() function, which continuously polls the Telegram servers for new messages and invokes the corresponding handlers.
 
